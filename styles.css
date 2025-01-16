@@ -30,3 +30,81 @@ color: #0E0E0E;
     border-radius: 8px;
     padding: 17px 34px;
   }
+  .section-skill{
+    margin: 570px 160px;
+    background-color: #F5F5F5;
+    padding: 100px 80px;
+  }
+  .skill-container{
+    display: flex;
+    gap: 24px;
+  }
+  .itam1{
+background-color:rgba(84, 144, 245, 0.2);;
+  }
+  .itam2{
+background-color: rgba(198, 228, 214, 1);
+  }
+  .itam3{
+background-color: rgba(247, 235, 207, 1);
+  }
+  .section-tittle{
+    font-weight: bold;
+    font-size: 40px;
+    color: #0E0E0E;
+  }
+  .section-discription{
+font-weight: 400;
+font-size: 16;
+color: #0E0E0E;
+  }
+  .skill1{
+    padding: 32px;
+    border-radius: 16px;
+    background-color: rgba(84, 144, 245, 0.2);
+  }
+  .skill2{
+    padding: 32px;
+    border-radius: 16px;
+    background-color: rgba(198, 228, 214, 1);
+  }
+  .skill3{
+    padding: 32px;
+    border-radius: 16px;
+    background-color: rgba(247, 235, 207, 1);
+  }
+  .skill-tittle{
+    font-weight: bold;
+    font-size: 20px;
+    color: #0E0E0E;
+  }
+  .skill-discription{
+    font-weight: 400;
+    font-size: 16px;
+    color: #0E0E0E;
+
+  }
+  .skill-bttn1{
+    padding: 11px 20px;
+    background-color: rgba(84, 144, 245, 1);
+border-radius: 8px;
+color: rgba(255, 255, 255, 1);
+font-size: 16;
+font-weight: 500;
+  }
+  .skill-bttn2{
+    padding: 11px 20px;
+    background-color: rgba(9, 161, 92, 1);
+border-radius: 8px;
+color:  rgba(255, 255, 255, 1);
+font-size: 16;
+font-weight: 500;
+  }
+  .skill-bttn3{
+    padding: 11px 20px;
+    background-color: rgba(255, 194, 57, 1);
+border-radius: 8px;
+color:  rgba(255, 255, 255, 1);
+font-size: 16;
+font-weight: 500;
+  }
