@@ -1,5 +1,5 @@
 *{
-  margin: 20px;
+  margin: 8px;
 }
 .banner{
     display: flex;
@@ -212,4 +212,42 @@ margin-top: 24px;
 .btn-center{
  display: flex;
  justify-content: center;
+}
+.subs-section{
+  padding: 80px 100px;
+  border-radius: 24px;
+  background-color: rgba(198, 228, 214, 1);
+}
+.subs-title{
+  text-align: center;
+  font-weight: bold;
+  font-size: 40px;
+  color: rgba(14, 14, 14, 1);
+  margin-top: 16px;
+}
+.subs-pera{
+  text-align: center;
+  font-weight: 400;
+  font-size: 16px;
+  color: rgba(14, 14, 14, 0.7);
+}
+.subs-btn{
+  padding: 17px 34px;
+  border-radius: mixed;
+  background-color: rgba(0, 106, 80, 1);
+  font-weight: 600;
+  font-size: 18px;
+  color: rgba(255, 255, 255, 1);
+  display: flex;
+}
+.subs-section input[type=text]{
+  width: 500px;
+  height: 22px;
+  padding: 17px 34px;
+  border-radius: mixed;
+  justify-items: center;
+}
+.subs-input{
+  display: flex;
+  justify-content: center;
 }
